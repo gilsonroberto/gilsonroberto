@@ -1,5 +1,7 @@
 # 💫 About Me:
-Apaixonado pelas tecnologias de desenvolvimento voltadas para aplicações web, possuo grande experiencia no desenvolvimento de aplicações utilizando HTML, Javascript, ReactJS, Jquery, CSS/SASS, NodeJs, Sql/Mysql, consumo e criação de API REST, MicroServices e WebServices.<br><br>Possuo experIência comprovada com as seguintes tecnologias: <br><br>* Javascript<br>* React<br>* HTML e CSS (SCSS)<br>* Frameworks de estilização tais como Boostrap, Materialize, Material Design.<br>* Banco de Dados - MYSQL e Sql Server<br>* Git e CI/CD (Azure Pipelines)<br>* Vivência em times ágeis utilizando SCRUM E KABAN
+Passionate about web application development technologies, I have extensive experience in developing applications using HTML, Javascript, ReactJS, Jquery, CSS/SASS, NodeJs, Sql/Mysql, consumption and creation of REST API, MicroServices and WebServices.
+
+I have proven experience with the following technologies: <br><br>* Javascript<br>* React<br>* HTML e CSS (SCSS)<br>* Frameworks de estilização tais como Boostrap, Materialize, Material Design.<br>* Banco de Dados - MYSQL e Sql Server<br>* Git e CI/CD (Azure Pipelines)<br>* Vivência em times ágeis utilizando SCRUM E KABAN
 
 
 ## 🌐 Socials:
